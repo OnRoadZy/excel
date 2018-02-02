@@ -1,3 +1,11 @@
+
+译文：
+这个文件是Excel API部分, Copyright (C) 2008 Untyped Ltd.
+Excel API是免费软件：您可以重新分发它和/或修改。根据GNU通用公共许可证条款由自由软件基金会出版，或版本3许可证，或（在您的选择）任何后来版本。
+Excel API是分布在希望它是有用的，但没有任何保证，甚至没有隐含的保证适销性或针对特定用途的。看到GNU通用公共许可证以获得更多详情。
+你应该已经收到GNU普通大众的副本许可证连同Excel API。如果没有，看<http://www.gnu.org/licenses/>。
+
+原文：
 This file is part of Excel API, Copyright (C) 2008 Untyped Ltd.
 
 Excel API is free software: you can redistribute it and/or modify
